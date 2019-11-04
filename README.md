@@ -1,5 +1,4 @@
 # minikube-ingress
-
       ---
       apiVersion: apps/v1
       kind: Deployment
